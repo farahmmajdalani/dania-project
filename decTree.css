@@ -1,0 +1,13 @@
+#tree{
+    overflow-y: auto; 
+    height:300px;
+    width: max-content;
+    text-align: center;
+}
+#block{
+    display: flex;
+    align-items: baseline;
+}
+#moreInfo, #tree{
+    margin-left: 2em;
+}
